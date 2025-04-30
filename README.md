@@ -4,6 +4,7 @@
 Este projeto tem como objetivo desenvolver um modelo que possa prever o melhor local para a perfuração de poços de petróleo.
 Utilizando modelo de machine learning para poder prever o lucro de cada poço.
 
+
 ## Ferramentas e Bibliotecas Utilizadas
 - Python: Linguagem principal utilizada para a análise.
 - Pandas e Numpy: Biblioteca para manipulação e análise de dados.

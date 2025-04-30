@@ -47,6 +47,7 @@ Para este projeto temos três conjuntos de dados, um para cada região de perfur
 Após analisar todos os locais e postos selecionados, e levando em conta a qualidade do modelo de regressão que montamos, eu acrdito que a melhor região é a segunda. 
 Pois o modelo é mais preciso que os demais e que por mais que apresente o menor lucro, é a que considero ter a menor chance de risco. 
 
+
 ## Aprendizados
 - Análise de dados: interpretação e extração de insights valiosos a partir de grandes volumes de dados.
 - Preparação do conjunto para aplicações em Machine Learning: separação do conjunto original em teste e treino, além da seleção das features e target do modelo.
